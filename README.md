@@ -70,7 +70,12 @@ module.exports = {
 ```
 npm i create-react-app -g
 
-create-react-app "react-complete-guide"(filename)
+create-react-app react-complete-guide<name of the project>
+```
+
+### ***OR***
+```
+npx create-react-app <name of the project>
 ```
 
 ***Rupak Dey***
